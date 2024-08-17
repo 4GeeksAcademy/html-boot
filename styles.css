@@ -1,0 +1,11 @@
+.navbar-header li {  
+    font-size: 2em;  
+} 
+
+h3 {
+    margin-top: .3em;
+}
+
+.navbar-right {
+    margin-top: 0;
+}
